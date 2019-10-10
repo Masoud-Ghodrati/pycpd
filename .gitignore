@@ -5,3 +5,4 @@
 temp*
 .pytest_cache/*
 testing/__pycache__/*
+examples/fish_affine_2D.py
